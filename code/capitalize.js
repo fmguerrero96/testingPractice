@@ -6,3 +6,4 @@ const capitalize = (string) => {
     return result 
 }
 
+module.exports = capitalize
